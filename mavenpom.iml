@@ -28,6 +28,7 @@
     <orderEntry type="library" name="Maven: org.apache.maven:maven-repository-metadata:2.0.9" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven:maven-error-diagnostics:2.0.9" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven:maven-plugin-descriptor:2.0.9" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-artifact-manager:2.0.9" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven:maven-monitor:2.0.9" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven:maven-toolchain:1.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven.shared:maven-shared-utils:0.1" level="project" />
@@ -49,9 +50,6 @@
     <orderEntry type="library" name="Maven: org.apache.maven:maven-plugin-registry:2.0.6" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven:maven-model:2.0.6" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven.plugins:maven-resources-plugin:2.2" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.maven.plugins:maven-install-plugin:2.4" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.maven:maven-artifact-manager:2.0.6" level="project" />
-    <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-digest:1.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven.plugins:maven-site-plugin:3.3" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven.reporting:maven-reporting-exec:1.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven.reporting:maven-reporting-api:3.0" level="project" />
